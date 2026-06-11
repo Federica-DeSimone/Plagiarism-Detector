@@ -7,7 +7,7 @@ quando una melodia è stata modificata tramite trasposizione, variazioni ritmich
 Il progetto nasce dall’unione di tre ambiti fondamentali: 
  - 🎼 musica, come fenomeno sonoro strutturato
  - 📐 matematica, come linguaggio per descrivere relazioni e trasformazioni
- - 💻 informatica, comestrumento per automatizzare l’analisi
+ - 💻 informatica, come strumento per automatizzare l’analisi
  
 L’altezza di una nota è direttamente legata alla sua frequenza. Tuttavia, lavorare direttamente con le
 frequenze reali sarebbe scomodo dal punto di vista computazionale.
